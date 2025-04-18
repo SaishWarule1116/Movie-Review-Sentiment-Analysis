@@ -55,4 +55,4 @@ TF-IDF vectorization (Scikit-learn)
 
 ## Demo
 
-Try out the sentiment analysis model live on Hugging Face: [Live Demo](SaishWarule1116/Movie_Review_Sentiment_Analysis)
+Try out the sentiment analysis model live on Hugging Face: [Live Demo](https://huggingface.co/spaces/SaishWarule1116/Movie_Review_Sentiment_Analysis)
